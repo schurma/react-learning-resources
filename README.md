@@ -130,3 +130,6 @@ http://www.flexboxdefense.com/
 
 ### ITCSS: Scalable and Maintainable CSS Architecture (*Recommended)
 https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+
+### Full Stack Development with React Hooks and Spring Boot 2.0 (Book)
+[Hands-On Full Stack Development with Spring Boot 2 and React, 2nd Edition](https://www.amazon.com/Hands-Stack-Development-Spring-React-ebook-dp-B07S6F7YL3/dp/B07S6F7YL3/ref=dp_ob_title_def)
